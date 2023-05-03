@@ -1,0 +1,17 @@
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.dll
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Infrastructure.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Application.dll
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Domain.dll
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Application.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\bin\Debug\net6.0\ETicaretApi.Domain.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.csproj.CopyComplete
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.dll
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\refint\ETicaretApi.Infrastructure.dll
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ETicaretApi.Infrastructure.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Asp.Net_WebProjelerim\MiniE-TicaretUygulamasi\ETicaretApi\Infrastructure\ETicaretApi.Infrastructure\obj\Debug\net6.0\ref\ETicaretApi.Infrastructure.dll

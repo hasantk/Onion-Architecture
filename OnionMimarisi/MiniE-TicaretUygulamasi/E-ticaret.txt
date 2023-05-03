@@ -1,0 +1,8 @@
+Onion Architecture
+-Domain
+-Repository
+-Interfaces
+-Service
+-Infrastructure
+-Persistence
+-Presentation

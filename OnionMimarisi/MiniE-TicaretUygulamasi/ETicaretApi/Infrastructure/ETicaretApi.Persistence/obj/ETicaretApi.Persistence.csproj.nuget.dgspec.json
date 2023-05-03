@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Infrastructure\\ETicaretApi.Persistence\\ETicaretApi.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\ETicaretApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\ETicaretApi.Application.csproj",
+        "projectName": "ETicaretApi.Application",
+        "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\ETicaretApi.Application.csproj",
+        "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\ETicaretApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\ETicaretApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\ETicaretApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\ETicaretApi.Domain.csproj",
+        "projectName": "ETicaretApi.Domain",
+        "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\ETicaretApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Infrastructure\\ETicaretApi.Persistence\\ETicaretApi.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Infrastructure\\ETicaretApi.Persistence\\ETicaretApi.Persistence.csproj",
+        "projectName": "ETicaretApi.Persistence",
+        "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Infrastructure\\ETicaretApi.Persistence\\ETicaretApi.Persistence.csproj",
+        "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Infrastructure\\ETicaretApi.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\ETicaretApi.Application.csproj": {
+                "projectPath": "C:\\Users\\hasan\\OneDrive\\Masaüstü\\NULL\\Asp.Net_WebProjelerim\\MiniE-TicaretUygulamasi\\ETicaretApi\\Core\\ETicaretApi.Application\\ETicaretApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
